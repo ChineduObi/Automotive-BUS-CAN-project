@@ -62,5 +62,5 @@ During the initial stages, the system failed to communicate. The following hardw
 
 ---
 
-**Author:** [Yunus Kunduz]
-*Electrical and Electronics Engineering Student | Embedded Systems Enthusiast*
+**Author:** [Chinedu Obi]
+*Compueter Engineering Student | Embedded Systems Enthusiast*
